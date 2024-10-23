@@ -1,0 +1,7 @@
+- 👋 Oi, eu sou @Josaffa
+- 👀 Estou interessado em tecnologia, desenvolvimento e infraestrutura de TI.
+- 🌱 Atualmente estou aprendendo frameworks avançados de JavaScript e práticas de segurança em TI.
+- 💞️ Estou procurando colaborar em projetos inovadores de desenvolvimento e infraestrutura de TI.
+- 📫 Como me encontrar: josaffapdp@gmail.com ou josaffajr@icloud.com
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Adoro experimentar novas tecnologias e construir eletrônicos DIY no meu tempo livre.
